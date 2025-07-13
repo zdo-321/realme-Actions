@@ -1,9 +1,5 @@
 # ⭐⭐⭐ Star This Project ⭐⭐⭐
 
-如果您觉得这个项目对您有帮助，请给我们一个 star！您的支持是我们持续改进的动力
-
-![Project Preview](https://github.com/user-attachments/assets/331a44ba-c666-4368-87d6-df55de482b58)
-
 ## OnePlus Kernel 开源地址
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Xiaomichael/kernel_manifest)
